@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className=" bg-gray-50 h-screen overflow-y-scroll scroll-hide">
       <Head>
-        <title>Insta 2.0</title>
+        <title>Nickstagram</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
